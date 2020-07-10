@@ -3,16 +3,6 @@
 
 ![alt text](https://i.imgur.com/GNbWoOk.jpg)
 
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [License](#license)
-* [Acknowledgements](#acknowledgements)
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
